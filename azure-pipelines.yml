@@ -25,4 +25,4 @@ steps:
     script: |
       print('190030944_L NAGA VEENA')
       print('KL-CSE')
-      print('Section-19A')
+      print('Section-1')
